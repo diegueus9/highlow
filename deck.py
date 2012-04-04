@@ -1,8 +1,5 @@
 COURTS = ['Spades', 'Hearts', 'Diamonds', 'Clubs'] 
-COURTS = ['Spades', 'Hearts',] 
 SUITS = ['Ace', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'Jack', 'Queen', 'King']
-SUITS = ['Ace', 2, 3, 'Jack', 'Queen', 'King']
-
 DECK = []
 
 def init_deck():
