@@ -11,5 +11,3 @@ def init_deck():
 def print_deck():
     for card in DECK:
         print "{suit} of {court}".format(court=card['court'], suit=card['suit'])
-
-
